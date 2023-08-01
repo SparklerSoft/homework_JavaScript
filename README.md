@@ -1,2 +1,2 @@
 # homework_JavaScript
-Sergey's Java classes
+Sergey's JavaScript classes
